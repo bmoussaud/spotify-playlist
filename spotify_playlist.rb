@@ -97,7 +97,7 @@ end
 options = {}
 
 opt_parser = OptionParser.new do |opt|
-  opt.banner = "Usage: spotifypl [OPTIONS]"
+  opt.banner = "Usage: spotify_playlist [OPTIONS]"
   opt.separator  ""
   opt.separator  "Options"
   opt.on("-u","--username USERNAME","spotify username") do |username|
