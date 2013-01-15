@@ -1,0 +1,16 @@
+# Eclipse
+.classpath
+.project
+.settings
+bin
+
+# Gradle
+.gradle
+build
+
+# Maven
+pom.xml
+target
+
+tmp
+spotify_appkey.key
